@@ -30,14 +30,14 @@ window.CONFIG = {
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
-    numero: "",
+    numero: "5588988692212",
     mensagem: "Olá! Confirmo minha presença no aniversário de Nycolle."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "",
+  mapa: "https://www.google.com/maps/place/Splendore+Centro+De+Eventos/@-26.5149652,-52.5011663,9.33z/data=!4m6!3m5!1s0x94efef8d8ea00e0d:0x17be5fc6568000cd!8m2!3d-25.8653239!4d-52.5192726!16s%2Fg%2F11n0gj6ghs?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
