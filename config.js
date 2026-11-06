@@ -62,7 +62,7 @@ window.CONFIG = {
   // posicao: ajuste pelo editor visual (?editor=1), escolhendo “PIX (copiar chave)”.
   pix: {
     ativo: true,
-    chave: "00020101021126580014br.gov.bcb.pix01365210c16e-d225-40ac-ae51-46aafcf6426c5204000053039865802BR5916MARIA H Z SANTOS6008SOROCABA62070503***6304E9FA",
+    chave: "00020101021126580014br.gov.bcb.pix01365210c16e-d225-40ac-ae51-46aafcf6426c5204000053039865802BR5916MARIA H Z SANTOS6008SOROCABA62070503***6304E9F",
     posicao: {"left":16.8,"top":64.0,"width":66.0,"height":8.2}
   },
 
